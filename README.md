@@ -1,6 +1,6 @@
-#技术栈
+# 技术栈
 
-##前端 ：vue2 + webpack + vueRouter + element
+## 前端 ：vue2 + webpack + vueRouter + element
 
 Build Setup
 
